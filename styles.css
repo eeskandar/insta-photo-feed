@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(185, 185, 185);
+}
+
+#header {
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    height: 50px;
+    margin: auto;
+}
